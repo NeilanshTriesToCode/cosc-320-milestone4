@@ -1,5 +1,7 @@
 ## Group Project for COSC 320 (Analysis of Algorithms)
 
+#### **The video can be found [here.](https://drive.google.com/file/d/15UqwC9X7uyK0sL2xyF-ymKhlmDXira2d/view)**
+
 ### Group Members:
 - Neilansh Rajpal
 - Minh Bui
